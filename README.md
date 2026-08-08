@@ -200,7 +200,7 @@ I_C \approx \beta I_B
 \left(1+\frac{V_{CE}}{V_A}\right)
 $$
 
-A smooth saturation factor is additionally applied to model the low-$V_{CE}$ knee.
+A smooth saturation factor is additionally applied to model the low- $V_{CE}$ knee.
 
 ---
 
