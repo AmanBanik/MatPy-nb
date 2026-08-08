@@ -313,7 +313,7 @@ with the overdrive voltage calculated using:
 np.maximum(0, V_GS - V_TH)
 ```
 
-This allows the complete set of $V_{GS}$-$V_{DS}$ combinations to be evaluated as an array.
+This allows the complete set of $V_{GS}$ - $V_{DS}$ combinations to be evaluated as an array.
 
 The saturation boundary is also calculated directly from the device equations and plotted alongside the I-V curves.
 
