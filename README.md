@@ -464,8 +464,9 @@ Then open the `.ipynb` notebook and execute the cells sequentially.
 
 ```text
 .
-├── semiconductor_devices_python.ipynb
+├── the_shift.ipynb
 ├── README.md
+├── LICENSE
 └── requirements.txt
 ```
 
